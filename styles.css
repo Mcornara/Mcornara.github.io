@@ -363,7 +363,16 @@ html {
 }
 /* Apariencia general de la página. */
 body {
-  background: var(--paper);
+  /* Color de respaldo por si el navegador no pudiera mostrar el degradado. */
+  background-color: #E2D1C3;
+
+  /* Degradado horizontal: claro a la izquierda y beige a la derecha. */
+  background-image: linear-gradient(
+    90deg,
+    rgba(253, 252, 251, 1) 0%,
+    rgba(226, 209, 195, 1) 100%
+  );
+
   color: var(--ink);
   font-family: var(--font-geist-sans), Arial, sans-serif;
   margin: 0;
