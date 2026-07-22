@@ -406,7 +406,7 @@ a {
     Times New Roman,
     serif;
   font-size: 1.8rem;
-  font-style: italic;
+  /*font-style: italic;*/
   font-weight: 700;
 }
 .brand span {
@@ -801,7 +801,7 @@ footer a {
    7. TECNOLOGÍAS Y HABILIDADES
    ================================================================ */
 .toolkit {
-  background: var(--blue);
+  background: var(#3D6049);
   color: #f6f0e8;
 }
 .section-heading.compact {
