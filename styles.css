@@ -410,7 +410,7 @@ a {
   font-weight: 700;
 }
 .brand span {
-  color: var(#712543);
+  color: #712543;
 }
 .site-header nav {
   gap: 2.2rem;
