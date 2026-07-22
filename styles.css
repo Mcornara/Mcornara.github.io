@@ -801,7 +801,7 @@ footer a {
    7. TECNOLOGÍAS Y HABILIDADES
    ================================================================ */
 .toolkit {
-  background: var(#3D6049);
+  background: #3D6049;
   color: #f6f0e8;
 }
 .section-heading.compact {
@@ -828,13 +828,13 @@ footer a {
     transform 0.18s;
 }
 .tools-cloud span:hover {
-  color: var(--blue);
+  color: #3D6049;
   background: #f6f0e8;
   transform: translateY(-4px) rotate(-1deg);
 }
 .tools-cloud span.accent {
-  background: var(--coral);
-  border-color: var(--coral);
+  background: #E7B7C5;
+  border-color: #E7B7C5;
   color: var(--ink);
 }
 /* ================================================================
