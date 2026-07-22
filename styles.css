@@ -387,7 +387,7 @@ a {
   /* Desenfoca suavemente el contenido que pasa por detrás del encabezado. */
   -webkit-backdrop-filter: blur(14px);
   backdrop-filter: blur(14px);
-  background: #f2ede4e8;
+  background: #E2D1C3;
   /* Logo a la izquierda, navegación al centro y GitHub a la derecha. */
   grid-template-columns: 1fr auto 1fr;
   align-items: center;
