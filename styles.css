@@ -363,15 +363,7 @@ html {
 }
 /* Apariencia general de la página. */
 body {
-  background: #FDFCFB;
-background: -webkit-linear-gradient(90deg,rgba(253, 252, 251, 1) 0%, rgba(226, 209, 195, 1) 100%);
-background: -moz-linear-gradient(90deg,rgba(253, 252, 251, 1) 0%, rgba(226, 209, 195, 1) 100%);
-background: linear-gradient(90deg,rgba(253, 252, 251, 1) 0%, rgba(226, 209, 195, 1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(
-  startColorstr="#FDFCFB",
-  endColorstr="#E2D1C3",
-  GradientType=1
-);
+  background: #E2D1C3;
   color: var(--ink);
   font-family: var(--font-geist-sans), Arial, sans-serif;
   margin: 0;
